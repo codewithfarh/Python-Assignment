@@ -1,5 +1,0 @@
-Ali,85
-Sara,92
-Umar,78
-Hina,95
-Bilal,88
